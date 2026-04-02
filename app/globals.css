@@ -1,0 +1,54 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --violet: #7C3AED;
+    --cyan: #06B6D4;
+    --bg: #0D0D0D;
+  }
+  
+  body {
+    background-color: var(--bg);
+    color: white;
+    scroll-behavior: smooth;
+  }
+}
+
+@layer utilities {
+  .shimmer-bg {
+    background: linear-gradient(
+      90deg,
+      rgba(255, 255, 255, 0) 0%,
+      rgba(255, 255, 255, 0.1) 50%,
+      rgba(255, 255, 255, 0) 100%
+    );
+    background-size: 200% 100%;
+    animation: shimmer 2s infinite;
+  }
+  
+  @keyframes shimmer {
+    0% {
+      background-position: 200% 0;
+    }
+    100% {
+      background-position: -200% 0;
+    }
+  }
+
+  .glow-border {
+    animation: borderGlow 3s infinite alternate;
+  }
+
+  @keyframes borderGlow {
+    0% {
+      box-shadow: 0 0 5px var(--violet), inset 0 0 5px var(--violet);
+      border-color: rgba(124, 58, 237, 0.5);
+    }
+    100% {
+      box-shadow: 0 0 20px var(--violet), inset 0 0 10px var(--violet);
+      border-color: rgba(124, 58, 237, 1);
+    }
+  }
+}

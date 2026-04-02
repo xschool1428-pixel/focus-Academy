@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Rahul Kumar",
+    "class": "Class VIII",
+    "quote": "Focus Academy changed how I study!",
+    "rating": 5,
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Rahul"
+  },
+  {
+    "id": 2,
+    "name": "Meera Joshi",
+    "class": "Class X",
+    "quote": "The weekly tests helped me build confidence.",
+    "rating": 5,
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Meera"
+  },
+  {
+    "id": 3,
+    "name": "Aditya Rai",
+    "class": "Class XII",
+    "quote": "Best teachers and amazing environment.",
+    "rating": 4,
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Aditya"
+  },
+  {
+    "id": 4,
+    "name": "Tara Singh",
+    "class": "Class IX",
+    "quote": "I love the small batches, I get personal attention.",
+    "rating": 5,
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Tara"
+  },
+  {
+    "id": 5,
+    "name": "Rohan Das",
+    "class": "Class XI",
+    "quote": "Cleared my doubts instantly. Highly recommended!",
+    "rating": 5,
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Rohan1"
+  },
+  {
+    "id": 6,
+    "name": "Sanya Kapoor",
+    "class": "Class X",
+    "quote": "The board exam prep is very focused here.",
+    "rating": 5,
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sanya"
+  },
+  {
+    "id": 7,
+    "name": "Vikram Ahuja",
+    "class": "Class XII",
+    "quote": "Thanks to Focus Academy, I scored 95%!",
+    "rating": 5,
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Vikram2"
+  },
+  {
+    "id": 8,
+    "name": "Nidhi Gupta",
+    "class": "Class VII",
+    "quote": "Learning is fun with these teachers.",
+    "rating": 4,
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Nidhi"
+  }
+]

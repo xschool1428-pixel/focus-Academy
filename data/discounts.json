@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Girl Student Discount",
+    "percentage": 10,
+    "description": "We encourage girls education with 10% off on all fees",
+    "badge": "Available Now",
+    "badgeColor": "green",
+    "icon": "female"
+  },
+  {
+    "id": 2,
+    "title": "Early Bird Enrollment",
+    "percentage": 15,
+    "description": "Enroll before 15 April 2026 and save on your first month",
+    "badge": "Limited Time",
+    "badgeColor": "amber",
+    "icon": "clock"
+  },
+  {
+    "id": 3,
+    "title": "Sibling Enrollment Benefit",
+    "percentage": 20,
+    "description": "Enroll 2 or more siblings and save on the second child",
+    "badge": "Stackable",
+    "badgeColor": "violet",
+    "icon": "users"
+  },
+  {
+    "id": 4,
+    "title": "3 Days Free Demo Classes",
+    "percentage": 0,
+    "description": "Try before you commit — completely free, no strings attached",
+    "badge": "No Credit Card",
+    "badgeColor": "green",
+    "icon": "gift"
+  }
+]

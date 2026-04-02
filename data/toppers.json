@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Priya Sharma",
+    "class": "X",
+    "board": "CBSE",
+    "score": "98.6%",
+    "year": "2024",
+    "rank": "#1 Topper",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Priya"
+  },
+  {
+    "id": 2,
+    "name": "Rahul Kumar",
+    "class": "XII",
+    "board": "ICSE",
+    "score": "97.8%",
+    "year": "2024",
+    "rank": "#2 Topper",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Rahul"
+  },
+  {
+    "id": 3,
+    "name": "Sneha Desai",
+    "class": "X",
+    "board": "JAC",
+    "score": "96.5%",
+    "year": "2025",
+    "rank": "#1 Topper",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sneha"
+  },
+  {
+    "id": 4,
+    "name": "Amit Patel",
+    "class": "XII",
+    "board": "CBSE",
+    "score": "96.2%",
+    "year": "2025",
+    "rank": "Top 10",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Amit"
+  },
+  {
+    "id": 5,
+    "name": "Riya Singh",
+    "class": "X",
+    "board": "ICSE",
+    "score": "95.9%",
+    "year": "2025",
+    "rank": "Top 10",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Riya"
+  },
+  {
+    "id": 6,
+    "name": "Karan Malhotra",
+    "class": "XII",
+    "board": "CBSE",
+    "score": "95.5%",
+    "year": "2024",
+    "rank": "Top 10",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Karan"
+  }
+]

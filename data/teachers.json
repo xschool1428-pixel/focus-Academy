@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Dinesh Sir",
+    "subject": "Mathematics",
+    "experience": "10 years",
+    "bio": "Specialist in board exam prep.",
+    "avatar": "/dinesh-sir.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Anjali Patel",
+    "subject": "Physics",
+    "experience": "8 years",
+    "bio": "Makes complex concepts simple and intuitive.",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Anjali"
+  },
+  {
+    "id": 3,
+    "name": "Rohan Gupta",
+    "subject": "Chemistry",
+    "experience": "6 years",
+    "bio": "Expert in organic chemistry and lab techniques.",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Rohan"
+  },
+  {
+    "id": 4,
+    "name": "Priya Sharma",
+    "subject": "Biology",
+    "experience": "12 years",
+    "bio": "Passionate about life sciences and botany.",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Priy"
+  },
+  {
+    "id": 5,
+    "name": "Vikram Singh",
+    "subject": "English",
+    "experience": "7 years",
+    "bio": "Literature enthusiast and grammar expert.",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Vikram"
+  },
+  {
+    "id": 6,
+    "name": "Neha Verma",
+    "subject": "Computer Science",
+    "experience": "5 years",
+    "bio": "Coding mentor and tech innovator.",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Neha"
+  }
+]
